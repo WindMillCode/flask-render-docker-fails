@@ -1,3 +1,6 @@
+# Links
+
+
 # Flask Docker Application is running but the hosting fails
 <!--- Provide a general summary of the issue in the Title above -->
 
@@ -23,8 +26,8 @@ the application running but render claims the build faild
 
 <!--- Provide a link to a live example, or an unambiguous set of steps to -->
 <!--- reproduce this bug. Include code to reproduce, if relevant -->
-1.
-2.
+1. deploy a new web service to render
+2. ensure that the folder is using the reproduce_steps as the root folder so it can find the Docker image there
 3.
 4.
 
